@@ -1,0 +1,100 @@
+{
+  "jugadores": [
+    {
+      "jugador": "Lautaro Sanchez",
+      "nacimiento": "2003-09-17",
+      "dni": "43514445",
+      "email": "lauti@gmail.com",
+      "contacto": "3774556611",
+      "posicionP": "Base",
+      "posicionS": "Polifuncional",
+      "puntaje": "75",
+      "equipoElegido": false,
+      "nombreEquipo": "",
+      "id": 1
+    },
+    {
+      "jugador": "Orlando Sanchez",
+      "nacimiento": "1970-11-16",
+      "dni": "21934606",
+      "email": "orlando@gmail.com",
+      "contacto": "3774631709",
+      "posicionP": "Pivot",
+      "posicionS": "Ala Pivot",
+      "puntaje": "45",
+      "equipoElegido": false,
+      "nombreEquipo": "",
+      "id": 2
+    },
+    {
+      "jugador": "Matias Sanchez",
+      "nacimiento": "1997-05-11",
+      "dni": "40281493",
+      "email": "mati@gmail.com",
+      "contacto": "3774440384",
+      "posicionP": "Director/Asist",
+      "posicionS": "Ninguno",
+      "puntaje": "45",
+      "equipoElegido": false,
+      "nombreEquipo": "",
+      "id": 3
+    },
+    {
+      "jugador": "hector moralez",
+      "nacimiento": "2023-07-05",
+      "dni": "39862131",
+      "email": "orlando@gmail.com",
+      "contacto": "12312313212",
+      "posicionP": "Ala Pivot",
+      "posicionS": "Alero",
+      "puntaje": "55",
+      "equipoElegido": false,
+      "nombreEquipo": "",
+      "id": 4
+    }
+  ],
+  "equipos": [
+    {
+      "nombre": "los pibes del bloqueo 2",
+      "torneo": "45",
+      "delegado": "Julio Rojas",
+      "equipo": [],
+      "id": 1
+    },
+    {
+      "nombre": "Equipo los sanchez",
+      "torneo": "45",
+      "delegado": "matias sanchez",
+      "equipo": [],
+      "id": 2
+    },
+    {
+      "nombre": "los pibes del bloqueo",
+      "torneo": "50",
+      "delegado": "Lucas Hanson",
+      "equipo": [],
+      "id": 3
+    },
+    {
+      "nombre": "María Rosa",
+      "torneo": "23",
+      "delegado": "Bautista Oria",
+      "equipo": [],
+      "id": 4
+    },
+    {
+      "nombre": "los pibes del bloqueo",
+      "torneo": "40",
+      "delegado": "orlando sanchez",
+      "equipo": [],
+      "id": 5
+    },
+    {
+      "nombre": "matias",
+      "torneo": "23",
+      "delegado": "Julio Rojas",
+      "equipo": [],
+      "id": 6
+    }
+  ]
+}
